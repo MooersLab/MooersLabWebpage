@@ -252,6 +252,28 @@ ul {
   </ul>
 </details>
 
+<h2> L <\h2>
+	
+<details><summary style="color:cyan"><b>LaTeX documents on the ScholarOne Manuscript Preparation System </b> </summary>
+This is a list of reminders to be reviewed before loading a manuscript written with LaTeX on the ScholarOne Manuscript Preparation System.	
+<ul>	
+<li>This system takes the main.tex file with the tables and figure captions deleted beforehand. This is critical. If it is not done, the latex engine used by Scholar One will try to compile the pdf with the tiff files. The latex engine cannot handle tiffs.</li>
+<li>Protein Science requires bibitems be used in place of bib files.</li>
+<li>The bibitems have to be in the order of citation.</li>
+<li>Note note of the nonstandard format for the citations. For example, only the last abbreviation in the journal names takes a period. Failure to follow these details are a source of numerous errors that have to be fixed in galley proofs.</li>
+<li>The label/ref system is broken. You have to manually number the keys to the tables and figures.</li>
+<li>The system needs the psfg.bst file, which is loaded at a suppl/latex file.</li>
+<li>pdflatex does not handle tiff files.</li>
+<li>Protein Science requires tiff files for bitmap images.</li>
+<li>The ScholarOne system will reject png files.</li>
+<li>The figure captions have to be entered on-line. Take care not to copy and paste LaTeX markup in the captions. Use the html markup that is available. For example, use \verb|<i>adsfa</i>| for italics.
+<li>The tables have to be prepared in MS Word with double spacing and without internal borders.</li>
+<li>The system will convert the main.tex into pdf and append the tables and tiff files.</li>
+<li>The soul package allows use of the \hl{} for highlighting text. This command line-wraps the highlight. The colorbox methods fails to line-wrap the highlight. Instead, the highlight is extended beyond the right margin and right off the page.</li>
+<li>The tracking of changes in a second parallel copy fails when additional errors are found after removal of the highlights.</li>
+</ul>
+</details>
+	
 
 <p> People may forget what you said. People may forget what you did. People will never forget how you made them feel. </p>
 </Body>
