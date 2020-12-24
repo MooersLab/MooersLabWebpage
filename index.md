@@ -31,4 +31,4 @@ We also develop software tools to ease the production of molecular graphics imag
 
 - [MolecularGraphicsLinks](https://mooerslab.github.io/MolecularGraphicsLinks/)
 - [Small Angle Scattering Links](https://mooerslab.github.io/SmallAngleScatteringWebpage)
-- [Cryo Electron Microscopy Links](https://mooerslab.github.io/cryoEMLinks)
+<!--- [Cryo Electron Microscopy Links](https://mooerslab.github.io/cryoEMLinks)--->
