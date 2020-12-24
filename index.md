@@ -49,6 +49,12 @@ In summary, our work is blend of wet bench and in silico work the uses a combina
 - [Kudos list of publications](www.growkudos.com/profile/blaine_mooers)
 - [Structures in the Protein Data Bank](https://www.ncbi.nlm.nih.gov/structure?term=mooers-bh%0A)
 
+## Lab members, July 2015
+
+<p align="center"><img src="./images/MooersLab2015.png" alt="HTML5 Icon" style="width:473.2px;height:333.45px;"></p>
+
+
+
 
 ### Software
 
