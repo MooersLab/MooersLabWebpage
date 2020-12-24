@@ -17,7 +17,7 @@ This system is not found in humans, so it is a drug target.
 Our principle method is biomolecular crystallography. 
 The workflow from crystals to diffraction data to electron density maps and to the final crystal structure is shown below.
 
-<p align="center"><img src="./images/workflog.png" alt="HTML5 Icon" style="width:473.2px;height:333.45px;"></p>
+<p align="center"><img src="./images/workflow.png" alt="HTML5 Icon" style="width:473.2px;height:333.45px;"></p>
 
 Secondary methods include small angle X-ray scattering, molecular dynamics simulations, and virtual drug docking. 
 
