@@ -52,8 +52,8 @@ In summary, our work is blend of wet bench and in silico work the uses a combina
 
 ### Software
 
-- [pymolsnips](https://mooerslab.github.com/pymolsnips)
-- [pymolshortcuts](https://mooerslab.github.com/pymolshortcuts)
+- [pymolsnips](https://github.com/MooersLab/pymolsnips)
+- [pymolshortcuts](https://github.com/MooersLab/pymolshortcuts)
 
 ## Other webpages on this site
 
