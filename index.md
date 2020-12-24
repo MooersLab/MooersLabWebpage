@@ -51,7 +51,7 @@ In summary, our work is blend of wet bench and in silico work the uses a combina
 
 ## Lab members, July 2015
 
-<p align="center"><img src="./images/MooersLab2015.png" alt="HTML5 Icon" style="width:500px;height:300px;"></p>
+<p align="center"><img src="./images/MooersLab2015.png" alt="HTML5 Icon" style="width:500px;height:260px;"></p>
 
 Left to right: Afzal Shakir, Akila Venkataramany, Karisa Hughes, Shelly Gulati, Blaine Mooers, Cheidza Kanyumbu, Barat Venkataramany
 
