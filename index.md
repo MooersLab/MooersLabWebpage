@@ -20,7 +20,7 @@ Secondary methods include small angle X-ray scattering, molecular dynamics simul
 We have access to a [local X-ray source](https://research.ouhsc.edu/Core-Facilities/Laboratory-of-Biomolecular-Structure-and-Function) for screening crystals.
 We are also heavy users of synchrotron radiation at [SSRL](https://www-ssrl.slac.stanford.edu/content/science/scientific-techniques) and sometimes at [APS](https://www.aps.anl.gov/) and [NSLSII](https://www.bnl.gov/ps/).
 
-<p align="center"><img src="./images/EditingCartoon.png" alt="HTML5 Icon" style="width:473.2px;height:333.45px;"></p>
+<p align="center"><img src="./images/USmapSynchs.png" alt="HTML5 Icon" style="width:473.2px;height:333.45px;"></p>
 
 
 Dr Mooers serves on the [SSRL User Executive Committee](https://www-ssrl.slac.stanford.edu/content/about-ssrl/ssrluo-2020-2021-executive-committee-members), which organizes a fascinating [user meeting](https://events.bizzabo.com/SLAC-UsersMeeting-2020/home) every year.
