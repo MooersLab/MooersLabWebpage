@@ -7,6 +7,13 @@ This is the home page of the MooersLab site on GitHub.
 ## Research Interests
 
 The Mooers lab focuses on studying the role of RNA structure in RNA editing in the mitochondrion of trypanosomes. 
+This byzantine and inefficient biochemical pathway changes over 2400 sites in only 12 mRNA transcripts.
+The editing is carried out under the direction of about 250 guide RNAs. 
+The function of about 1500 additional guide RNAs remains unclear.
+This system is not found in humans so it is a drug target.
+
+<p align="center"><img src="./images/EditingCartoon.png" alt="HTML5 Icon" style="width:728px;height:513px;"></p>
+
 Our principle method is biomolecular crystallography. 
 Secondary methods include small angle X-ray scattering, molecular dynamics simulations, and virtual drug docking. 
 
