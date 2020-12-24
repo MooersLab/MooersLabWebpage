@@ -10,18 +10,21 @@ The Mooers lab focuses on studying the role of RNA structure in RNA editing in t
 This byzantine and inefficient biochemical pathway changes over 2400 sites in only 12 mRNA transcripts.
 The editing is carried out under the direction of about 250 guide RNAs. 
 The function of about 1500 additional guide RNAs remains unclear.
-This system is not found in humans so it is a drug target.
+This system is not found in humans, so it is a drug target.
 
 <p align="center"><img src="./images/EditingCartoon.png" alt="HTML5 Icon" style="width:473.2px;height:333.45px;"></p>
 
 Our principle method is biomolecular crystallography. 
+The workflow from crystals to diffraction data to electron density maps and to the final crystal structure is shown below.
+
+<p align="center"><img src="./images/workflog.png" alt="HTML5 Icon" style="width:473.2px;height:333.45px;"></p>
+
 Secondary methods include small angle X-ray scattering, molecular dynamics simulations, and virtual drug docking. 
 
 We have access to a [local X-ray source](https://research.ouhsc.edu/Core-Facilities/Laboratory-of-Biomolecular-Structure-and-Function) for screening crystals.
 We are also heavy users of synchrotron radiation at [SSRL](https://www-ssrl.slac.stanford.edu/content/science/scientific-techniques) and sometimes at [APS](https://www.aps.anl.gov/) and [NSLSII](https://www.bnl.gov/ps/).
 
 <p align="center"><img src="./images/USmapSynchs.png" alt="HTML5 Icon" style="width:473.2px;height:333.45px;"></p>
-
 
 Dr Mooers serves on the [SSRL User Executive Committee](https://www-ssrl.slac.stanford.edu/content/about-ssrl/ssrluo-2020-2021-executive-committee-members), which organizes a fascinating [user meeting](https://events.bizzabo.com/SLAC-UsersMeeting-2020/home) every year.
 He co-chaired a workshop on "Machine Learning in the Structural Sciences" at the 2020 meeting.
@@ -34,7 +37,7 @@ We use remotely the [Schooner supercomputer](https://www.ou.edu/oscer) that is r
 We also use remotely the [Pete supercomputer](https://hpcc.okstate.edu/pete-supercomputer.html) at Oklahoma State University in Stillwater 80 miles to the north.
 
 Our other area of interest that is computationally intensive is the structure-based drug design targeting RNAs in our trypanosome work and proteins important in RNA editing, influenza, and cancer. 
-The protein work is done collaboration with colleagues at OUHSC and Texas A&M University. 
+The protein work is done in collaboration with colleagues at OUHSC and Texas A&M University. 
 We also develop software tools to ease the production of molecular graphics images with PyMOL. 
 
 In summary, our work is blend of wet bench and in silico work the uses a combination of little science and big science tools.
