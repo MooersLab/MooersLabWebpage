@@ -14,12 +14,12 @@ This system is not found in humans, so it is a drug target.
 
 <p align="center"><img src="./images/EditingCartoon.png" alt="HTML5 Icon" style="width:473.2px;height:333.45px;"></p>
 
-Our principle method is biomolecular crystallography. 
+Our principal method is biomolecular crystallography. 
 The workflow from crystals to diffraction data to electron density maps and to the final crystal structure is shown below.
 
 <p align="center"><img src="./images/workflow.png" alt="HTML5 Icon" style="width:473.2px;height:333.45px;"></p>
 
-Secondary methods include small angle X-ray scattering, molecular dynamics simulations, and virtual drug docking. 
+Secondary methods include small-angle X-ray scattering, molecular dynamics simulations, and virtual drug docking. 
 
 We have access to a [local X-ray source](https://research.ouhsc.edu/Core-Facilities/Laboratory-of-Biomolecular-Structure-and-Function) for screening crystals.
 We are also heavy users of synchrotron radiation at [SSRL](https://www-ssrl.slac.stanford.edu/content/science/scientific-techniques) and sometimes at [APS](https://www.aps.anl.gov/) and [NSLSII](https://www.bnl.gov/ps/).
@@ -31,7 +31,7 @@ He co-chaired a workshop on "Machine Learning in the Structural Sciences" at the
 
 We also work on advancing the methodology of biomolecular crystallography. 
 Recent achievements include the ab initio direct methods structure determination of the largest nucleic acid to date. 
-This acheivement was made in spite of the presence of two orders of translational pseudosymmetry, which hindered structure determination. 
+This achievement was made in spite of the presence of two orders of translational pseudosymmetry, which hindered structure determination. 
 This work required extensive supercomputer use, especially the trials starting from random phases that were required to obtain a meaningful sample size. 
 We use remotely the [Schooner supercomputer](https://www.ou.edu/oscer) that is run by OU Supercomputing Center for Education & Research (OSCER) at the University of Oklahoma in Norman 20 miles to the south. 
 We also use remotely the [Pete supercomputer](https://hpcc.okstate.edu/pete-supercomputer.html) at Oklahoma State University in Stillwater 80 miles to the north.
@@ -40,7 +40,8 @@ Our other area of interest that is computationally intensive is the structure-ba
 The protein work is done in collaboration with colleagues at OUHSC and Texas A&M University. 
 We also develop software tools to ease the production of molecular graphics images with PyMOL. 
 
-In summary, our work is blend of wet bench and in silico work the uses a combination of little science and big science tools.
+In summary, our work is a blend of wet-bench and computer methods that uses a combination of little science and big science tools. 
+This is because the methods of structural biology are at the intersection of biology, chemistry, computer science, and physics.
 
 ## Research products
 
@@ -72,8 +73,8 @@ Left to right:  Blaine Mooers, Francis Acquah, Brittany Schnable, Shelly Gulati,
 
 ### Software
 
-- [pymolsnips](https://mooerslab.github.com/pymolsnips)
-- [pymolshortcuts](https://mooerslab.github.com/pymolshortcuts)
+- [pymolsnips](https://github.com/mooerslab/pymolsnips)
+- [pymolshortcuts](https://github.com/mooerslab/pymolshortcuts)
 
 ## Other webpages on this site
 
