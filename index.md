@@ -19,7 +19,11 @@ Secondary methods include small angle X-ray scattering, molecular dynamics simul
 
 We have access to a [local X-ray source](https://research.ouhsc.edu/Core-Facilities/Laboratory-of-Biomolecular-Structure-and-Function) for screening crystals.
 We are also heavy users of synchrotron radiation at [SSRL](https://www-ssrl.slac.stanford.edu/content/science/scientific-techniques) and sometimes at [APS](https://www.aps.anl.gov/) and [NSLSII](https://www.bnl.gov/ps/).
-Dr Mooers serves on the [SSRL User Executive Committee](https://www-ssrl.slac.stanford.edu/content/about-ssrl/ssrluo-2020-2021-executive-committee-members), which organizes a fascinating [user meeting](https://events.bizzabo.com/SLAC-UsersMeeting-2020/home) every year .
+
+<p align="center"><img src="./images/EditingCartoon.png" alt="HTML5 Icon" style="width:473.2px;height:333.45px;"></p>
+
+
+Dr Mooers serves on the [SSRL User Executive Committee](https://www-ssrl.slac.stanford.edu/content/about-ssrl/ssrluo-2020-2021-executive-committee-members), which organizes a fascinating [user meeting](https://events.bizzabo.com/SLAC-UsersMeeting-2020/home) every year.
 He co-chaired a workshop on "Machine Learning in the Structural Sciences" at the 2020 meeting.
 
 We also work on advancing the methodology of biomolecular crystallography. 
@@ -35,16 +39,18 @@ We also develop software tools to ease the production of molecular graphics imag
 
 In summary, our work is blend of wet bench and in silico work the uses a combination of little science and big science tools.
 
-### Research products
+## Research products
 
-[MyNCBI Bibliography](https://www.ncbi.nlm.nih.gov/sites/myncbi/blaine.mooers.1/bibliography/43937197/public/?sort=date&direction=%20descending)
-[Google Scholar Bibliography](https://scholar.google.com/citations?user=ZReXIXoAAAAJ&hl=en)
-[Kudos list of publications](www.growkudos.com/profile/blaine_mooers)
-[Structures in the Protein Data Bank](https://www.ncbi.nlm.nih.gov/structure?term=mooers-bh%0A)
+- [MyNCBI Bibliography](https://www.ncbi.nlm.nih.gov/sites/myncbi/blaine.mooers.1/bibliography/43937197/public/?sort=date&direction=%20descending)
+- [Google Scholar Bibliography](https://scholar.google.com/citations?user=ZReXIXoAAAAJ&hl=en)
+- [Kudos list of publications](www.growkudos.com/profile/blaine_mooers)
+- [Structures in the Protein Data Bank](https://www.ncbi.nlm.nih.gov/structure?term=mooers-bh%0A)
 
 
 ### Software
 
+- [pymolsnips]()
+- [pymolshortcuts]()
 
 ## Other webpages on this site
 
