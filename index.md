@@ -12,7 +12,7 @@ The editing is carried out under the direction of about 250 guide RNAs.
 The function of about 1500 additional guide RNAs remains unclear.
 This system is not found in humans so it is a drug target.
 
-<p align="center"><img src="./images/EditingCartoon.png" alt="HTML5 Icon" style="width:255px;height:179.5px;"></p>
+<p align="center"><img src="./images/EditingCartoon.png" alt="HTML5 Icon" style="width:473.2px;height:333.45px;"></p>
 
 Our principle method is biomolecular crystallography. 
 Secondary methods include small angle X-ray scattering, molecular dynamics simulations, and virtual drug docking. 
